@@ -3,8 +3,9 @@
 ## Studied Language Workbenches
 
 - [Gemoc](http://gemoc.org/)
-- [NeverLang](http://neverlang.di.unimi.it/)
+- [Melange](http://melange.inria.fr/)
 - [MPS](https://www.jetbrains.com/mps/)
+- [NeverLang](http://neverlang.di.unimi.it/)
 - [Racket](https://racket-lang.org/)
 - [Rascal](http://www.rascal-mpl.org/)
 - [Spoofax](http://www.metaborg.org/en/latest/)

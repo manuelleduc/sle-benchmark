@@ -11,5 +11,6 @@ pages:
       - 'Properties': 'benchmark/properties.md'
   - 'Challenges':
     - 'Index': 'challenges/index.md'
+    - 'One Level Extension': 'challenges/one-level-extension.md'
   - 'About': 'about.md'
 theme: cinder
