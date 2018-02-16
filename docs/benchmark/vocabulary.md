@@ -36,4 +36,16 @@ examples of Language Concerns (Expression and Unit).
 
 ## Artifact
 
+An Artifact belongs to a single facet of a language concern and conforms to a
+specific metalanguage of the facet’s perspective.
+In our Expression language example, that would be the text file containing the
+BNF of the concrete syntax for the Literal facet of the Literal feature.
+
 ## Facet
+A Language Facet realizes part of a given language concern using the
+metalanguages of the corresponding perspective.
+For example the grammar of the concrete syntax of an Expression language is a
+Facet of the Expression language concern.
+Artifacts of a given language facet, and respectively the language facets, are
+kept consistent according to the relationships among the used metalanguages of
+the respective perspectives.
