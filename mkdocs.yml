@@ -4,6 +4,7 @@ pages:
     - 'Index': 'index.md'
     - 'Initiatives': 'index/initiatives.md'
     - 'Workbenches': 'index/workbenches.md'
+    - 'TODO': 'index/todo.md'
   - 'Benchmark':
       - 'Index': 'benchmark/index.md'
       - 'Vocabulary': 'benchmark/vocabulary.md'

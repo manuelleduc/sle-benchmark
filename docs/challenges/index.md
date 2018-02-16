@@ -2,6 +2,24 @@
 
 **DRAFT**
 
+
+## Challenges categories
+
+- language extension
+- language specialization/restriction
+- language unification
+- language self-extension
+- language - model co-evolution
+
+<!-- Can multiple inheritance be modeled in term of Erdweg classification?  -->
+- workbenches collaboration
+
+- composition of scopes
+- composition of type systems
+- composition of execution context
+- composition of code transformations (e.g. model to text)
+
+
 ## Reuse challenges
 
 - linear composition
