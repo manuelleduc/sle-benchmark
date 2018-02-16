@@ -1,3 +1,6 @@
 # About
 
-manuel.leduc 
+## Manuel Leduc
+
+- https://mleduc.xyz
+- manuel.leduc@irisa.fr

@@ -1,5 +1,14 @@
-site_name: My Docs
+site_name: Software Language Engineering - Composition Benchmark
 pages:
-  - Home: index.md
-  - About: about.md
+  - 'Home':
+    - 'Index': 'index.md'
+    - 'Initiatives': 'index/initiatives.md'
+    - 'Workbenches': 'index/workbenches.md'
+  - 'Benchmark':
+      - 'Index': 'benchmark/index.md'
+      - 'Vocabulary': 'benchmark/vocabulary.md'
+      - 'Properties': 'benchmark/properties.md'
+  - 'Challenges':
+    - 'Index': 'challenges/index.md'
+  - 'About': 'about.md'
 theme: cinder
