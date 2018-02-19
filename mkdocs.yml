@@ -1,4 +1,4 @@
-site_name: Software Language Engineering - Composition Benchmark
+site_name: SLE - Composition Benchmark
 pages:
   - 'Home':
     - 'Index': 'index.md'
@@ -15,4 +15,4 @@ pages:
     - 'Two Levels Extension': 'challenges/two-levels-extension/index.md'
     - 'Language Unification': 'challenges/languages-unification/index.md'
   - 'About': 'about.md'
-theme: cinder
+theme: flatly
