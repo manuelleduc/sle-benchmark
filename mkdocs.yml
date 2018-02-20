@@ -14,5 +14,7 @@ pages:
     - 'One Level Extension': 'challenges/one-level-extension/index.md'
     - 'Two Levels Extension': 'challenges/two-levels-extension/index.md'
     - 'Language Unification': 'challenges/languages-unification/index.md'
+    - 'Independent Features Composition': 'challenges/independent-features-composition/index.md'
+    - 'Self-Extension': 'challenges/language-self-extension/index.md'
   - 'About': 'about.md'
 theme: flatly
