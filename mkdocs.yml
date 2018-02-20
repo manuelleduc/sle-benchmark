@@ -16,5 +16,6 @@ pages:
     - 'Language Unification': 'challenges/languages-unification/index.md'
     - 'Independent Features Composition': 'challenges/independent-features-composition/index.md'
     - 'Self-Extension': 'challenges/language-self-extension/index.md'
+    - 'Dead Features Detection': 'challenges/dead-features-detection/index.md'
   - 'About': 'about.md'
 theme: flatly
