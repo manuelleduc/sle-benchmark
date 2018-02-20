@@ -18,19 +18,20 @@ Current SLE benchmarks initiatives can be found [here](./index/initiatives.md)
 ## Software Language Engineering
 
 From the [SLEBoK](https://github.com/slebok/slebok) words, the field of
-Software Language Engineering (SLE) has emerged based on a string motivation to
+Software Language Engineering (SLE) has emerged based on a strong motivation to
 connect and integrate different research disciplines such as compiler
 construction, reverse engineering, software transformation, model-driven
-engineering, and ontologies. SLE is defined as the application of systematic,
-disciplined, and measurable approaches to the development, deployment, use, and
-maintenance of Software Languages.
+engineering, and ontologies.
+SLE is defined as the application of systematic,disciplined, and measurable
+approaches to the development, deployment, use, and maintenance of Software
+Languages.
 
 ## Benchmark
 
 Using a benchmark is a recognized methodology that, when embraced by the
-community, head strong positive effects on the scientific maturity of the field.
+community, has strong positive effects on the scientific maturity of the field.
 
-More details on the methodology and criterias used for the construction and
+More details on the methodology and criterion used for the construction and
 analysis of the benchmark can be found in the [Benchmarks](./benchmark/index.md)
 section.
 The proposed challenges are in the [Challenges](./challenges/index.md) section.
