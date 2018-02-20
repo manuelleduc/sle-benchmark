@@ -17,5 +17,7 @@ pages:
     - 'Independent Features Composition': 'challenges/independent-features-composition/index.md'
     - 'Self-Extension': 'challenges/language-self-extension/index.md'
     - 'Dead Features Detection': 'challenges/dead-features-detection/index.md'
+  - 'Solutions': 'solutions/index.md'
+  - 'Problems': 'problems/index.md'
   - 'About': 'about.md'
 theme: flatly
