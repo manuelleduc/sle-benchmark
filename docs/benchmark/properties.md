@@ -4,6 +4,7 @@
 
 - **reusability:** can we quantify how much a define Language is reusable as a building block of future languages?
 - **model compatibility:** does it exist a notion of language typing. Does the model produced defined using a Language *A* be executable using a Language *B* with a children type relationship to *A*.
+-
 
 ## Non Functional Properties
 
