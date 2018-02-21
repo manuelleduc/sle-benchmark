@@ -21,6 +21,10 @@ pages:
     - 'Open World Assumption': 'challenges/open-world-language/index.md'
     - 'Scoping Challenge': 'challenges/scoping-challenge/index.md'
   - 'Solutions': 'solutions/index.md'
-  - 'Problems': 'problems/index.md'
+  - 'Problems':
+    - 'Index': 'problems/index.md'
+    - 'Xbase': 'xbase/index.md'
   - 'About': 'about.md'
 theme: flatly
+extra_css:
+  - css/sle-benchmark.css
