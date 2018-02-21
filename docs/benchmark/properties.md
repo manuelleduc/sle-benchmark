@@ -5,7 +5,7 @@
 - **reusability:** can we quantify how much a define Language is reusable as a building block of future languages?
 - **model compatibility:** does it exist a notion of language typing. Does the model produced defined using a Language *A* be executable using a Language *B* with a children type relationship to *A*.
 - **independent compilation:** does the compilation of a language requires the compilation of its dependencies.
-- **interface isolation:** can the compilation of a language be done by consulting only the interfaces informations of its dependencies.
+- **interface isolation/information hidding:** can the compilation of a language be done by consulting only the interfaces informations of its dependencies.
 - **anticipation:** does the specification of a language concern be done without have to adapt the implementation specifically to address implementation concerns of the languages that depends on it?
 
 ## Non Functional Properties
