@@ -1,4 +1,4 @@
-# Scoping Challenge
+# Challenge: Scoping Challenge
 
 ## Description
 

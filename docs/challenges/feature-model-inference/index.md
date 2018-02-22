@@ -1,4 +1,4 @@
-# Feature Model Inference
+# Challenge: Feature Model Inference
 
 ## Description
 

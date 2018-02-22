@@ -1,4 +1,4 @@
-# Independent Features Composition
+# Challenge: Independent Features Composition
 
 
 # Description
