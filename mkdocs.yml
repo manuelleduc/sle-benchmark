@@ -38,3 +38,7 @@ pages:
 theme: flatly
 extra_css:
   - css/sle-benchmark.css
+markdown_extensions:
+  - footnotes
+  - toc:
+      permalink: true

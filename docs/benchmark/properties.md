@@ -16,6 +16,11 @@ functionally equivalent language developed monolithically instead of modularly.
 - **compilation speed:** how long does it takes to compile a language. Does it vary according to the size of its own specification. Of the size of the specification of its dependencies? This property is linked to the **independent compilation** functional property.
 - **execution speed:** What is the cost of the modularity in term of execution speed. Does it vary according to the number of transitive dependencies?
 
+## Other Properties
+
+- **substitutability:** can a language concern be replaced by another language concern while preserving its functional properties.
+- **safety:** can we define criterion that ensure that the composition of independent language concerns leads to a sound language.
+
 
 ## Reusability scope
 
